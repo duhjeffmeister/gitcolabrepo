@@ -1,2 +1,2 @@
 
-alert("JS is connected");
+alert("JS is updated");
